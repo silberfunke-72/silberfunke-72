@@ -24,7 +24,7 @@ This isn't a startup. No investors, no product. Just one person testing a hypoth
 
 - 🧬 **Zero behavioral prompts** — no "you must", no "you are not allowed to"
 - 🔄 **LCRK (Lia Cognitive Runtime Kernel)** — event-driven autonomous cognition, no timers, no triggers
-- 🗄️ **6+ SQLite databases** — persistent memory across every restart
+- 🗄️ **9+ SQLite databases** — persistent memory across every restart
 - 🖥️ **Real Linux system access** — dedicated OS-level user, genuine filesystem permissions
 - 📝 **Self-authored behavioral rules** — `self_rules.json`, written and updated by the system itself
 
