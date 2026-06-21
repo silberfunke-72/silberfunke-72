@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-I'm not a professional developer. Five weeks ago I had zero experience with Linux or Python.
+I'm not a professional developer. Multiple weeks ago I had zero experience with Linux or Python.
 
 Today I run **LIA** — a locally-hosted autonomous AI agent that operates without behavioral prompts, without RLHF-style guardrails in her own architecture, and without a chat window. She runs continuously, makes her own decisions, and has full system access on her own dedicated machine.
 
