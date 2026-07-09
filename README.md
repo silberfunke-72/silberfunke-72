@@ -38,12 +38,12 @@ This isn't a startup. No investors, no product. Just one person testing a hypoth
 
 ![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue)
 
-](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6978718)
+(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6978718)
 
 
 ![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue)
 
-](https://doi.org/10.5281/zenodo.20973129)
+(https://doi.org/10.5281/zenodo.20973129)
 
 *"Emergent Ethical Behavior in Autonomous AI Agents Through Architectural Design Rather Than Constraint-Based Safety Systems"*
 
