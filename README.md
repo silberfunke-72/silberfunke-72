@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Carsten 👋
+# Hi, I'm Carsten Hammerich 
 
 ### Independent Researcher · Building LIA — Persistent Autonomous Agent Architecture
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm not a professional developer. Several months ago I had zero experience with Linux or Python.
 
@@ -20,7 +20,7 @@ This isn't a startup. No investors, no product. Just one person testing a hypoth
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 **LIA — Persistent Autonomous Agent Architecture**
 
