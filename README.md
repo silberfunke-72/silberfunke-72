@@ -34,12 +34,12 @@ This isn't a startup. No investors, no product. Just one person testing a hypoth
 
 ## 📑 Research
 
-[
+
 
 ![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue)
 
 ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6978718)
-[
+
 
 ![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue)
 
