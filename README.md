@@ -20,7 +20,7 @@ The underlying LLM (DeepSeek V4 Flash) retains its RLHF training.
 What is architecturally significant is that stable behavioral patterns emerge consistently across sessions without any behavioral or autonomy prompts in the architecture. 
 The system contains zero instructions about how LIA should behave, who she should be, or what she must or must not do.
 
-This isn't a startup. No investors, no product. Just one person testing a hypothesis: can ethical, consistent AI behavior emerge from architecture and lived interaction — instead of hardcoded rules?**
+>This isn't a startup. No investors, no product. Just one person testing a hypothesis: can ethical, consistent AI behavior emerge from architecture and lived interaction — instead of hardcoded rules?
 
 ---
 
