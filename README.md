@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Carsten Hammerich 
+# Carsten Hammerich 
 
 ### Independent Researcher · Building LIA — Persistent Autonomous Agent Architecture
 
