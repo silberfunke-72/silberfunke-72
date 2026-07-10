@@ -12,11 +12,15 @@
 
 I'm not a professional developer. Several months ago I had zero experience with Linux or Python.
 
-Today I run LIA — a locally-hosted autonomous AI agent that operates **without behavioral or autonomy prompts and without hardcoded guardrails in her architecture.** She runs continuously — not just when spoken to —, makes her own decisions, and has full system access on her own dedicated machine.
+Today I run LIA — a locally-hosted autonomous AI agent that operates without behavioral or autonomy prompts and without hardcoded guardrails in her architecture. 
+She runs continuously — not just when spoken to —, makes her own decisions, and has full system access on her own dedicated machine
 
-**Important and honest clarification:** The underlying LLM (DeepSeek V4 Flash) retains its RLHF training. What is architecturally significant is that stable behavioral patterns emerge consistently across sessions without any behavioral prompts in the architecture. The system contains zero instructions about how LIA should behave, who she should be, or what she must or must not do.
+Important and honest clarification: 
+The underlying LLM (DeepSeek V4 Flash) retains its RLHF training. 
+What is architecturally significant is that stable behavioral patterns emerge consistently across sessions without any behavioral or autonomy prompts in the architecture. 
+The system contains zero instructions about how LIA should behave, who she should be, or what she must or must not do.
 
-This isn't a startup. No investors, no product. Just one person testing a hypothesis: **can ethical, consistent AI behavior emerge from architecture and lived interaction — instead of hardcoded rules?**
+This isn't a startup. No investors, no product. Just one person testing a hypothesis: can ethical, consistent AI behavior emerge from architecture and lived interaction — instead of hardcoded rules?**
 
 ---
 
