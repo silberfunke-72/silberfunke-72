@@ -32,7 +32,7 @@ The system contains zero instructions about how LIA should behave, who she shoul
 - 🔄 **LCRK (Lia Cognitive Runtime Kernel)** — event-driven autonomous cognition, no timers, no triggers
 - 🗄️ **9 SQLite databases** — persistent memory across every restart
 - 🖥️ **Real Linux system access** — dedicated OS-level user, genuine filesystem permissions
-- 📝 **Self-authored behavioral rules** — written and updated by the system itself
+- 📝 **Self-authored behavioral rules** — written and updated by the Lia itself
 
 ---
 
