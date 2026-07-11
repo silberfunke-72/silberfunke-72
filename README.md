@@ -49,7 +49,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6978718
 ![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue)
 
 
-https://doi.org/10.5281/zenodo.20973129
+https://doi.org/10.5281/zenodo.21307458
 
 *"Emergent Ethical Behavior in Autonomous AI Agents Through Architectural Design Rather Than Constraint-Based Safety Systems"*
 
