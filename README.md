@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a Independent researcher exploring whether ethical, consistent AI behavior can emerge from architectural design — rather than behavioral constraints, 
+I am a independent researcher exploring whether ethical, consistent AI behavior can emerge from architectural design — rather than behavioral constraints, 
 RLHF guardrails, or prompt engineering.
 
 Building AI on equal terms, not as a controlled tool.
