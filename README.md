@@ -1,4 +1,4 @@
-<div align="center">
+2<div align="center">
 
 # Carsten Hammerich 
 
@@ -45,7 +45,7 @@ The system contains zero instructions about how LIA should behave, who she shoul
 ![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue)
 
 
-https://doi.org/10.5281/zenodo.21307458
+https://doi.org/10.5281/zenodo.21335820 
 
 *"Emergent Behavioral Consistency in a PersistentAutonomous Agent without Behavioral Prompts or Constraint-Based Safety Mechanisms."*
 
