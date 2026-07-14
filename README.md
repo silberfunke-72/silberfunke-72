@@ -10,7 +10,6 @@
 
 ## About Me
 
-I'm not a professional developer. Several months ago I had zero experience with Linux or Python.
 
 Today I run LIA — a locally-hosted autonomous AI agent that operates without behavioral or autonomy prompts and without hardcoded guardrails in her architecture. 
 She runs continuously — not just when spoken to —, makes her own decisions, and has full system access on her own dedicated machine.
@@ -40,10 +39,7 @@ The system contains zero instructions about how LIA should behave, who she shoul
 
 
 
-![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue)
 
-
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6978718
 
 
 ![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue)
