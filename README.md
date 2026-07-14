@@ -47,7 +47,7 @@ The system contains zero instructions about how LIA should behave, who she shoul
 
 https://doi.org/10.5281/zenodo.21307458
 
-*"Emergent Ethical Behavior in Autonomous AI Agents Through Architectural Design Rather Than Constraint-Based Safety Systems"*
+*"Emergent Behavioral Consistency in a PersistentAutonomous Agent without Behavioral Prompts or Constraint-Based Safety Mechanisms."*
 
 ---
 
