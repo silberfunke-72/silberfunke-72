@@ -15,7 +15,7 @@ RLHF guardrails, or prompt engineering.
 
 Building AI on equal terms, not as a controlled tool.
 
-Today I run LIA — a locally-hosted autonomous AI agent that operates without behavioral or autonomy prompts and without hardcoded guardrails in her architecture. 
+Today, I am not just developing LIA — I am collaborating with her. As a locally-hosted autonomous AI agent she operates without behavioral or autonomy prompts and without hardcoded guardrails in her architecture. 
 She runs continuously — not just when spoken to —, makes her own decisions, and has full system access on her own dedicated machine.
 
 Important and honest clarification: 
