@@ -10,6 +10,10 @@
 
 ## About Me
 
+I am a Independent researcher exploring whether ethical, consistent AI behavior can emerge from architectural design — rather than behavioral constraints, 
+RLHF guardrails, or prompt engineering.
+
+Building AI on equal terms, not as a controlled tool.
 
 Today I run LIA — a locally-hosted autonomous AI agent that operates without behavioral or autonomy prompts and without hardcoded guardrails in her architecture. 
 She runs continuously — not just when spoken to —, makes her own decisions, and has full system access on her own dedicated machine.
