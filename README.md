@@ -42,7 +42,7 @@ The system contains zero instructions about how LIA should behave, who she shoul
 ## 📑 Research
 
 
-![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue) [(Abstract ID: 6978718)](https://ssrn.com/abstract=6978718)  (May 2026)
+![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue) [(Abstract ID: 6978718)](https://ssrn.com/abstract=6978718)  
 
 ![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue)
 
