@@ -2,7 +2,9 @@
 
 # Carsten Hammerich 
 
-### Independent Researcher · Building LIA — Persistent Autonomous Agent Architecture
+### Independent Researcher · Building LIA — Persistent Autonomous Agent Architecture and 
+Digital Cognitive Architecture (DCA)
+Engineering Notebook – Research in Progress
 
 </div>
 
