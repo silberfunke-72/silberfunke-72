@@ -50,7 +50,7 @@ The system contains zero instructions about how LIA should behave, who she shoul
 ![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue) [Abstract ID: 6978718](https://ssrn.com/abstract=6978718)  
 
 ![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue)
-https://doi.org/10.5281/zenodo.21743577)
+https://doi.org/10.5281/zenodo.21781143
 
 *"Emergent Behavioral Consistency in a PersistentAutonomous Agent without Behavioral Prompts or Constraint-Based Safety Mechanisms."*
 
