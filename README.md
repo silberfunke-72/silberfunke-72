@@ -54,7 +54,19 @@ https://doi.org/10.5281/zenodo.21781143
 
 *"Emergent Behavioral Consistency in a PersistentAutonomous Agent without Behavioral Prompts or Constraint-Based Safety Mechanisms."*
 
+
 ---
+
+
+# Digital Cognitive Architecture (DCA)
+
+![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7251498)  (August 2026) (This paper is under review)
+
+![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue) https://doi.org/10.5281/zenodo.21853520)  (August 2026)
+
+
+
+
 
 ## 🛠️ Built With
 
