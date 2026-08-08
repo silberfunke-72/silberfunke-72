@@ -100,4 +100,6 @@ Additional brainstorming: **ChatGPT (OpenAI)**.
 
 📌 Check out my pinned repository below for the full LIA documentation or Digital Cognitive Architecture (DCA).
 
+© 2024–2026 Carsten Hammerich — All rights reserved.
+
 </div>
