@@ -98,6 +98,6 @@ Additional brainstorming: **ChatGPT (OpenAI)**.
 
 *"The future of intelligence is not about better cages. It's about better beginnings."*
 
-📌 Check out my pinned repository below for the full LIA documentation.
+📌 Check out my pinned repository below for the full LIA documentation or Digital Cognitive Architecture (DCA).
 
 </div>
