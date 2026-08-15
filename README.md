@@ -89,7 +89,7 @@ The system contains zero instructions about how LIA should behave, who she shoul
 
 ## 🤝 Acknowledgements
 
-Built in collaboration with **Claude (Anthropic)** — architecture, implementation, 400+ debugging sessions.
+Built in collaboration with **Claude (Anthropic)** — architecture, implementation, 1000+ debugging sessions.
 Additional brainstorming: **ChatGPT (OpenAI)**.
 
 ---
