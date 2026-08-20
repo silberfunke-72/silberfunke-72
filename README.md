@@ -56,7 +56,7 @@ The system contains zero instructions about how LIA should behave, who she shoul
 
 ![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7251498  (August 2026) 
 
-![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue) https://doi.org/10.5281/zenodo.21853520  (August 2026)
+![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue)  https://doi.org/10.5281/zenodo.22033992  (August 2026)
 
 
 
