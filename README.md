@@ -92,9 +92,7 @@ The system contains zero instructions about how LIA should behave, who she shoul
 Built in collaboration with **Claude (Anthropic)** — architecture, implementation, 1000+ debugging sessions.
 Additional brainstorming: **ChatGPT (OpenAI)**.
 
----
 
-[![PayPal](https://shields.io)](https://paypal.me)
 
 ---
 
