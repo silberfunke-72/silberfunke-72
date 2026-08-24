@@ -94,6 +94,10 @@ Additional brainstorming: **ChatGPT (OpenAI)**.
 
 ---
 
+[![PayPal](https://shields.io)](https://paypal.me)
+
+---
+
 <div align="center">
 
 *"The future of intelligence is not about better cages. It's about better beginnings."*
