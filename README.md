@@ -144,7 +144,8 @@ Additional brainstorming: **ChatGPT (OpenAI)**.
 
 *"The future of intelligence is not about better cages. It's about better beginnings."*
 
-📌 Check out my pinned repository below for the full LIA documentation or Digital Cognitive Architecture (DCA).
+📌 Check out my pinned repository below for the full LIA documentation and LIA-Empirical-Evidence-Development-Record or 
+Digital Cognitive Architecture (DCA).
 
 © 2024–2026 Carsten Hammerich — All rights reserved.
 
