@@ -71,6 +71,9 @@ Only once those conditions exist does it make sense to ask **what actually emerg
 ---
 
 > **I created the conditions first. Now I'm studying what develops within them.**
+
+---
+
 ## What I'm Building
 
 ---
