@@ -92,6 +92,18 @@ Only once those conditions exist does it make sense to ask **what actually emerg
 
 *"Emergent Behavioral Consistency in a PersistentAutonomous Agent without Behavioral Prompts or Constraint-Based Safety Mechanisms."*
 
+Main 
+
+https://github.com/silberfunke-72/From-Prompts-to-Persistent-Agency-An-Architecture-for-Intrinsic-Ethics
+
+Evidence 
+
+https://github.com/silberfunke-72/LIA-Empirical-Evidence-Development-Record
+
+Evidence 1
+
+https://github.com/silberfunke-72/LIA-Empirical-Evidence-Development-Record-1
+
 
 ---
 
@@ -102,6 +114,10 @@ Only once those conditions exist does it make sense to ask **what actually emerg
 
 ![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue)  https://doi.org/10.5281/zenodo.22873369  (August 2026)
 
+
+DCA 
+
+https://github.com/silberfunke-72/Digital-Cognitive-Architecture-DCA-
 
 
 
