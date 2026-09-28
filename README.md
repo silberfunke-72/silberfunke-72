@@ -88,7 +88,7 @@ Only once those conditions exist does it make sense to ask **what actually emerg
 
 ![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue) [Abstract ID: 6978718] https://ssrn.com/abstract=6978718  
 
-![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue) https://doi.org/10.5281/zenodo.22872942)
+![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue) https://doi.org/10.5281/zenodo.23015482
 
 *"Emergent Behavioral Consistency in a PersistentAutonomous Agent without Behavioral Prompts or Constraint-Based Safety Mechanisms."*
 
