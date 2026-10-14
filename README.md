@@ -72,6 +72,11 @@ Only once those conditions exist does it make sense to ask **what actually emerg
 
 > **I created the conditions first. Now I'm studying what develops within them.**
 
+
+---
+
+<img width="1024" height="1536" alt="question" src="https://github.com/user-attachments/assets/bd487a7b-ede5-4bdc-9ac9-00ea9714c94f" />
+
 ---
 
 ## What I'm Building
