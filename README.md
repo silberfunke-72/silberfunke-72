@@ -108,13 +108,7 @@ Only once those conditions exist does it make sense to ask **what actually emerg
 
 ---
 
-
-Main 
-
-https://github.com/silberfunke-72/From-Prompts-to-Persistent-Agency-An-Architecture-for-Intrinsic-Ethics
-
-
-### 📊 Project Lia 
+### ®️ Project Lia 
 
 | Resource | Link |
 | :--- | :--- |
@@ -135,7 +129,7 @@ https://github.com/silberfunke-72/From-Prompts-to-Persistent-Agency-An-Architect
 
 ![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue)  https://doi.org/10.5281/zenodo.22873369  (August 2026)
 
-### 📊 Project DCA
+### ®️ Project DCA
 
 | Resource | Link |
 | :--- | :--- |
