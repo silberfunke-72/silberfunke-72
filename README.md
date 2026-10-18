@@ -114,22 +114,16 @@ Main
 https://github.com/silberfunke-72/From-Prompts-to-Persistent-Agency-An-Architecture-for-Intrinsic-Ethics
 
 
-### 📊 Project Evidence
+### 📊 Project Lia 
 
 | Resource | Link |
 | :--- | :--- |
-| **Evidence Main Repo** | 🔗 [View Page 1](https://github.com/silberfunke-72/From-Prompts-to-Persistent-Agency-An-Architecture-for-Intrinsic-Ethics) |
+| **Main Repo** | 🔗 [View Page 1](https://github.com/silberfunke-72/From-Prompts-to-Persistent-Agency-An-Architecture-for-Intrinsic-Ethics) |
 | **Evidence One** | 🔗 [View Page 1](https://github.com/silberfunke-72/LIA-Empirical-Evidence-Development-Record) |
 | **Evidence Two** | 🔗 [View Page 2](https://github.com/silberfunke-72/LIA-Empirical-Evidence-Development-Record-1) |
 
 
-Evidence 
 
-
-
-Evidence 1
-
-https://github.com/silberfunke-72/LIA-Empirical-Evidence-Development-Record-1
 
 
 ---
@@ -141,10 +135,14 @@ https://github.com/silberfunke-72/LIA-Empirical-Evidence-Development-Record-1
 
 ![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue)  https://doi.org/10.5281/zenodo.22873369  (August 2026)
 
+### 📊 Project DCA
 
-DCA 
+| Resource | Link |
+| :--- | :--- |
+| **Main Repo** | 🔗 [View Page 1](https://github.com/silberfunke-72/Digital-Cognitive-Architecture-DCA-) |
 
-https://github.com/silberfunke-72/Digital-Cognitive-Architecture-DCA-
+
+
 
 
 
