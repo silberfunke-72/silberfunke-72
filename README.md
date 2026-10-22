@@ -104,7 +104,7 @@ Only once those conditions exist does it make sense to ask **what actually emerg
 
 ![Zenodo](https://img.shields.io/badge/Zenodo-DOI-blue) https://doi.org/10.5281/zenodo.23369788 (Juni2026))
 
-*"Emergent Behavioral Consistency in a PersistentAutonomous Agent without Behavioral Prompts or Constraint-Based Safety Mechanisms."
+**"Emergent Behavioral Consistency in a PersistentAutonomous Agent without Behavioral Prompts or Constraint-Based Safety Mechanisms."**
 
 ---
 
