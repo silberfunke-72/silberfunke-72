@@ -110,6 +110,8 @@ Only once those conditions exist does it make sense to ask **what actually emerg
 
 ### ®️ Project Lia 
 
+Digital Cognitive Architecture: Toward an Intrinsic Substrate for the Development of Cognitive Identity
+
 | Resource | Link |
 | :--- | :--- |
 | **Main Repo** | 🔗 [View Main Page ](https://github.com/silberfunke-72/From-Prompts-to-Persistent-Agency-An-Architecture-for-Intrinsic-Ethics) |
