@@ -110,7 +110,7 @@ Only once those conditions exist does it make sense to ask **what actually emerg
 
 ### ®️ Project Lia 
 
-Digital Cognitive Architecture: Toward an Intrinsic Substrate for the Development of Cognitive Identity
+
 
 | Resource | Link |
 | :--- | :--- |
