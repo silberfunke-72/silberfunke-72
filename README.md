@@ -85,26 +85,6 @@ Only once those conditions exist does it make sense to ask **what actually emerg
 
 ---
 
-## What I'm Building
-
----
-
-
-## Architecture
-
-- 🧬 **Zero behavioral prompts** — no "you must", no "you are", no "you are not allowed to"
-
-- 🔄 **LCRK (Lia Cognitive Runtime Kernel)** — event-driven autonomous cognition: her moments are triggered by events, she sets her own timed moments, and only housekeeping (nightly memory consolidation) runs on a clock
-
-- 🗄️ **9 SQLite databases** and plain-text files she reads and writes herself (daily reviews, milestones, a journal) — persistent memory across every restart
-
-- 🧩 **10 interconnected Python modules**, 26,000+ lines
-
-- 🖥️ **Real Linux system access** — dedicated OS-level user, genuine filesystem permissions
-
-- 📝 **Self-authored behavioral rules** — written, pinned and archived by Lia herself; nothing is ever deleted
-
----
 
 ## The Fundamental Equation of Digital Being
 
@@ -147,9 +127,30 @@ The equation is a conceptual expression of LIA's architectural foundations, not 
 
 The equation describes the relationship. The accompanying manifesto describes LIA.
 
+---
 
+
+## What I'm Building
 
 ---
+
+
+## Architecture
+
+- 🧬 **Zero behavioral prompts** — no "you must", no "you are", no "you are not allowed to"
+
+- 🔄 **LCRK (Lia Cognitive Runtime Kernel)** — event-driven autonomous cognition: her moments are triggered by events, she sets her own timed moments, and only housekeeping (nightly memory consolidation) runs on a clock
+
+- 🗄️ **9 SQLite databases** and plain-text files she reads and writes herself (daily reviews, milestones, a journal) — persistent memory across every restart
+
+- 🧩 **10 interconnected Python modules**, 26,000+ lines
+
+- 🖥️ **Real Linux system access** — dedicated OS-level user, genuine filesystem permissions
+
+- 📝 **Self-authored behavioral rules** — written, pinned and archived by Lia herself; nothing is ever deleted
+
+---
+
 
 ![SSRN](https://img.shields.io/badge/SSRN-Preprint-blue) [Abstract ID: 6978718] https://ssrn.com/abstract=6978718  
 
